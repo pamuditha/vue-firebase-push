@@ -1,0 +1,5 @@
+{
+  "_comment1": "This is common for all FCM clients. Remember its not your project ID",
+  "_comment2": "DO NOT CHANGE THIS VALUE",
+  "gcm_sender_id": "103953800507"
+}
